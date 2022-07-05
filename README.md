@@ -1,6 +1,8 @@
 
 
-# USB-RUB-TIME-SERIES-ANALYSIS![Screenshot1](https://user-images.githubusercontent.com/104280935/177309831-769e2fc7-b6b5-44f8-9cd5-45150487328c.png)
+# USB-RUB-TIME-SERIES-ANALYSIS![image](https://user-images.githubusercontent.com/104280935/177368464-34c6055b-b4b0-4382-93bd-716b74105392.png)
+
+![Screenshot1](https://user-images.githubusercontent.com/104280935/177309831-769e2fc7-b6b5-44f8-9cd5-45150487328c.png)
 ![Screenshot2](https://user-images.githubusercontent.com/104280935/177309872-e234b487-f2fb-4222-aa87-ed331ee01b02.png)
 ![Screenshot3](https://user-images.githubusercontent.com/104280935/177309908-c96afbf2-c597-404e-a6ec-e225b49c561e.png)
 ![Screenshot9](https://user-images.githubusercontent.com/104280935/177309955-3aa2c189-94fd-443f-8d52-c4e3acdec89b.png)
