@@ -1,6 +1,6 @@
 
 
-# USB-RUB-TIME-SERIES-ANALYSIS![Screenshot 11](https://user-images.githubusercontent.com/104280935/177369059-4880062b-dfe9-4114-bf2d-2ae084eba065.png)
+# USD-RUB-TIME-SERIES-ANALYSIS![Screenshot 11](https://user-images.githubusercontent.com/104280935/177369059-4880062b-dfe9-4114-bf2d-2ae084eba065.png)
 
 ![Screenshot1](https://user-images.githubusercontent.com/104280935/177309831-769e2fc7-b6b5-44f8-9cd5-45150487328c.png)
 ![Screenshot2](https://user-images.githubusercontent.com/104280935/177309872-e234b487-f2fb-4222-aa87-ed331ee01b02.png)
