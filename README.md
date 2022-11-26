@@ -1,6 +1,11 @@
 
+While studying about time series analysis in python, I became curious about the decomposition of deterministic components, predictive and forecasting model in the time series model.
 
-# USD-RUB-TIME-SERIES-ANALYSIS![Screenshot 11](https://user-images.githubusercontent.com/104280935/177369059-4880062b-dfe9-4114-bf2d-2ae084eba065.png)
+I decided to work with USD/RUB exchange rate; I was interested in investigating if the effect of the war and monetary policy will be captured as a residual component.
+
+In addition, I was eager to know if my machine would predict the exchange rate while the data was not stationary.
+
+
 
 ![Screenshot1](https://user-images.githubusercontent.com/104280935/177309831-769e2fc7-b6b5-44f8-9cd5-45150487328c.png)
 ![Screenshot2](https://user-images.githubusercontent.com/104280935/177309872-e234b487-f2fb-4222-aa87-ed331ee01b02.png)
